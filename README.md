@@ -14,6 +14,38 @@ The platform analyzes uploaded resumes and provides insights into:
 - Learning roadmap using curated resources
 It is built to simplify career transitions (e.g., QA → Data Analyst, DevOps → Backend Developer).
 
+## 📷 Screenshots
+### Home 
+![Resume Upload](screenshots/HomePage.png)
+
+### Resume Upload
+![Resume Upload](screenshots/UploadCV.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Roadmap
+![Roadmap](screenshots/Roadmap.png)
+
+### Job Market Insights
+![Job Market Insights](screenshots/Job Market Insights.png)
+
+### Interview Prep
+![Interview Prep](screenshots/Interview Preparation.png)
+
+### AI Interview
+![AI Interview](screenshots/AI Interview.png)
+
+### AI Interview Feedback
+![AI Interview Feedback](screenshots/AI Interview Feedback.png)
+
+### Resume Builder
+![Resume Builder](screenshots/Resume Builder.png)
+
+### Resume Builder Download Functuionality
+![Resume Builder Download ](screenshots/Resume Builder Download Functionality.png)
+
+
 ## 🚀 Features
 - 📄 Resume Upload & Skill Extraction
 - 📊 Personalized Dashboard with Skill Analysis
