@@ -28,7 +28,7 @@ It is built to simplify career transitions (e.g., QA â†’ Data Analyst, DevOps â†
 ![Roadmap](screenshots/Roadmap.png)
 
 ### Job Market Insights
-![Job Market Insights](screenshots/Job Market Insights.png)
+![Job Market Insights](screenshots/JobMarketInsights.png)
 
 ### Interview Prep
 ![Interview Prep](screenshots/Interview Preparation.png)
