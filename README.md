@@ -31,19 +31,19 @@ It is built to simplify career transitions (e.g., QA → Data Analyst, DevOps �
 ![Job Market Insights](screenshots/JobMarketInsights.png)
 
 ### Interview Prep
-![Interview Prep](screenshots/Interview Preparation.png)
+![Interview Prep](screenshots/InterviewPreparation.png)
 
 ### AI Interview
-![AI Interview](screenshots/AI Interview.png)
+![AI Interview](screenshots/AIInterview.png)
 
 ### AI Interview Feedback
-![AI Interview Feedback](screenshots/AI Interview Feedback.png)
+![AI Interview Feedback](screenshots/AIInterviewFeedback.png)
 
 ### Resume Builder
-![Resume Builder](screenshots/Resume Builder.png)
+![Resume Builder](screenshots/ResumeBuilder.png)
 
 ### Resume Builder Download Functuionality
-![Resume Builder Download ](screenshots/Resume Builder Download Functionality.png)
+![Resume Builder Download ](screenshots/ResumeBuilderDownloadFunctionality.png)
 
 
 ## 🚀 Features
