@@ -3,7 +3,7 @@ AI-powered career roadmap and skill gap analysis platform
 
 ## 🎥 Demo Video
 Watch the full demo here:  
-https://youtu.be/CvUvOHJ1p_w
+https://youtu.be/EFmzncQMy2M
 
 ## 📌 Project Overview
 Gap2Growth is a career guidance platform designed to help users identify skill gaps and generate a personalized roadmap based on their current profile and target role.
